@@ -1,0 +1,1 @@
+Sample implementation of the jotai state management library in a Next.js 14 app router app, where an initial atom state is generated on the server and hydrated client side via [useHydrateAtoms](https://jotai.org/docs/utilities/ssr) ([GitHub discussion](https://github.com/pmndrs/jotai/discussions/2470#discussioncomment-8927224)).
